@@ -1,4 +1,5 @@
-[{
+mahasiswa{
+  [{
   "id": 1,
   "name": "Leora Whatmough",
   "gender": "Female"
@@ -119,3 +120,4 @@
   "name": "Farrah Bonnell",
   "gender": "Female"
 }]
+};
