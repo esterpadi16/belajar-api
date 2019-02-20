@@ -1,4 +1,5 @@
-mahasiswa{
+{
+  "mahasiswa":
   [{
   "id": 1,
   "name": "Leora Whatmough",
@@ -120,4 +121,4 @@ mahasiswa{
   "name": "Farrah Bonnell",
   "gender": "Female"
 }]
-};
+}
